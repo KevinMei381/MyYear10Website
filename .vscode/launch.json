@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
+            "url": "https://kevinmei381.github.io/MyYear10Website/",
             "webRoot": "${workspaceFolder}"
         }
     ]
