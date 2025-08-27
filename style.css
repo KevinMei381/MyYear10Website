@@ -55,7 +55,7 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(13, 112, 0);
+    background-color: rgb(107, 255, 120);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
@@ -73,7 +73,7 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(13, 112, 0);
+    background-color: rgb(107, 255, 120);
     color: white;
     text-align: right;
     padding: 3em 3em;
